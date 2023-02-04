@@ -24,7 +24,22 @@ export default function Home() {
           <div className="body--title">
             😁 Positive
           </div>
-          <div className="body--card">
+          <div className="body--card--row">
+            <div className="body--card">
+            <div className="body--card--title">
+              Sample title
+            </div>
+            <div className="body--card--text">
+              Lorem ipsum hello holy shit i wanna sleep i&apos;m so fuckin tired.
+            </div>
+
+            <div className="body--card--subtitle">
+            😁 Positive
+            </div>
+
+            </div>
+
+            <div className="body--card">
 
             <div className="body--card--title">
               Sample title
@@ -37,7 +52,38 @@ export default function Home() {
             😁 Positive
             </div>
 
+            </div>
+            <div className="body--card">
+
+            <div className="body--card--title">
+              Sample title
+            </div>
+            <div className="body--card--text">
+              Lorem ipsum hello holy shit i wanna sleep i&apos;m so fuckin tired.
+            </div>
+
+            <div className="body--card--subtitle">
+            😁 Positive
+            </div>
+
+            </div>
+            <div className="body--card">
+
+            <div className="body--card--title">
+              Sample title
+            </div>
+            <div className="body--card--text">
+              Lorem ipsum hello holy shit i wanna sleep i&apos;m so fuckin tired.
+            </div>
+
+            <div className="body--card--subtitle">
+            😁 Positive
+            </div>
+
+            </div>
           </div>
+          
+
 
         </div>
       </div>
