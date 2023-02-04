@@ -30,7 +30,7 @@ export default function Home() {
               Sample title
             </div>
             <div className="body--card--text">
-              Lorem ipsum hello holy shit i wanna sleep i'm so fuckin tired.
+              Lorem ipsum hello holy shit i wanna sleep i&apos;m so fuckin tired.
             </div>
 
             <div className="body--card--subtitle">
