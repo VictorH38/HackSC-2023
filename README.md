@@ -1,3 +1,19 @@
+## Inspiration
+One of our team member's family member has Multiple Personality Disorder. Some of the team met him and talked to him about his major pain points. Based on the prompt, we realized that people with MPD are very underrepresented. So, we decided to focus on solving this problem for HackSC.
+## What it does
+This software allows users to create an identity by entering diary entries and characteristics. Then the user can have a conversation with that identity using a chatbot.
+## How we built it
+We used next.js for the front end and OpenAI API / Python script for the chatbot. 
+## Challenges we ran into
+We ran out of time, so we were unable to integrate the back end into the front end.
+## Accomplishments that we're proud of
+We worked well as a team. Even though we were confused most of the time, we still built software that targeted a problem. 
+## What we learned
+We learned that Google is our best friend, because many of us are beginner programmers. 
+## What's next for ChatSupport
+Our team will integrate the front end and back end. Hopefully, we can ship out our software to users to collect user data and iterate.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
