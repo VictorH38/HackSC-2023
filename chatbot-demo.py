@@ -74,8 +74,8 @@ personalityDescription = "This person is a complex individual who is often moody
 inputText = ""
 prevText = []
 
-username = "Mark"
-identityname = "Marky Sparky"
+username = "username123"
+identityname = "Mark"
 
 markyIdentity = Personality()
 
@@ -90,4 +90,3 @@ while inputText != 'q':
     outputText = generate(prompt)
     prevText.append(outputText)
     print(outputText)
-    
